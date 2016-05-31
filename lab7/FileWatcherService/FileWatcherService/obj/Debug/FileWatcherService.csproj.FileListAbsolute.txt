@@ -1,0 +1,9 @@
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe.config
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.pdb
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.csprojResolveAssemblyReference.cache
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.FileWatcherService.resources
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.ProjectInstaller.resources
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.csproj.GenerateResource.Cache
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.exe
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 7\lab7\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.pdb

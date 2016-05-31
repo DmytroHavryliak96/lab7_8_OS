@@ -1,0 +1,26 @@
+The FileWatcherService Start At Date:05.22.16 22:15:08 
+File Deleted: Path:D:\Сонце.docx, Name:Сонце.docx, Date:05.22.16 22:15:25 
+File Deleted: Path:D:\Мій малюнок.jpg, Name:Мій малюнок.jpg, Date:05.22.16 22:15:25 
+File Created: Path:D:\Новый текстовый документ.txt, Name:Новый текстовый документ.txt, Date:05.22.16 22:15:30 
+File Renamed: From Path1:D:\Новый текстовый документ.txt, Name1:Новый текстовый документ.txt To Path2:D:\Природа.txt, Name2:Природа.txt, Date:05.22.16 22:15:34 
+File Changed: Path:D:\Природа.txt, Name:Природа.txt, Date:05.22.16 22:15:56 
+File Changed: Path:D:\Природа.txt, Name:Природа.txt, Date:05.22.16 22:15:56 
+File Renamed: From Path1:D:\Природа.txt, Name1:Природа.txt To Path2:D:\Планета Земля.txt, Name2:Планета Земля.txt, Date:05.22.16 22:16:09 
+File Created: Path:D:\1.PNG, Name:1.PNG, Date:05.22.16 22:16:50 
+File Changed: Path:D:\1.PNG, Name:1.PNG, Date:05.22.16 22:16:50 
+File Changed: Path:D:\1.PNG, Name:1.PNG, Date:05.22.16 22:16:50 
+File Renamed: From Path1:D:\1.PNG, Name1:1.PNG To Path2:D:\Скрін.PNG, Name2:Скрін.PNG, Date:05.22.16 22:16:57 
+File Created: Path:D:\Документ Microsoft Word.docx, Name:Документ Microsoft Word.docx, Date:05.22.16 22:17:01 
+File Renamed: From Path1:D:\Документ Microsoft Word.docx, Name1:Документ Microsoft Word.docx To Path2:D:\документ.docx, Name2:документ.docx, Date:05.22.16 22:17:08 
+File Created: Path:D:\~$кумент.docx, Name:~$кумент.docx, Date:05.22.16 22:17:10 
+File Changed: Path:D:\~$кумент.docx, Name:~$кумент.docx, Date:05.22.16 22:17:10 
+File Created: Path:D:\~WRD0002.tmp, Name:~WRD0002.tmp, Date:05.22.16 22:17:20 
+File Changed: Path:D:\~WRD0002.tmp, Name:~WRD0002.tmp, Date:05.22.16 22:17:20 
+File Changed: Path:D:\~WRD0002.tmp, Name:~WRD0002.tmp, Date:05.22.16 22:17:20 
+File Changed: Path:D:\~WRD0002.tmp, Name:~WRD0002.tmp, Date:05.22.16 22:17:20 
+File Changed: Path:D:\~WRD0002.tmp, Name:~WRD0002.tmp, Date:05.22.16 22:17:20 
+File Renamed: From Path1:D:\документ.docx, Name1:документ.docx To Path2:D:\~WRL0003.tmp, Name2:~WRL0003.tmp, Date:05.22.16 22:17:20 
+File Renamed: From Path1:D:\~WRD0002.tmp, Name1:~WRD0002.tmp To Path2:D:\документ.docx, Name2:документ.docx, Date:05.22.16 22:17:20 
+File Deleted: Path:D:\~WRL0003.tmp, Name:~WRL0003.tmp, Date:05.22.16 22:17:20 
+File Deleted: Path:D:\~$кумент.docx, Name:~$кумент.docx, Date:05.22.16 22:17:22 
+The FileWatcherService Stop At Date:05.22.16 22:18:54 
